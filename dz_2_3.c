@@ -14,6 +14,7 @@ int main()
     else if (x==0 && y==0) printf("Origin of coordinates");
     else if (x==0) printf("Y axis");
     else if (y==0) printf("X axis");
+    
     scanf("\n%d",&null);
     return 0;
 }
